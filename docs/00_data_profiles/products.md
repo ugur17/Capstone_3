@@ -44,6 +44,7 @@
 ## Required Checks
  * Change Product data type from Any to Text
  * Trim Prod Num, Product, Category and Subcategory
+ * Rename Category to Category Name
  * Rename Product to Product Name
  * Rename Prod Num to Product ID
  * Check whether Product Names contain duplicates

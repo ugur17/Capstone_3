@@ -30,14 +30,14 @@ excluding textbooks)
 - Measure: Sales amount
 - Analyze by: category
 - Target Dimension: DimProduct
-- Dimension sources: Products and Inventory Categories
+- Dimension sources: Products
 - Fact Tables: FactOnlineSales and FactStoreSales
 
 * Relative Sales by State
 - Measure: Sales amount
 - Analyze by: State
 - Target Dimension: DimGeography
-- Dimension sources: Shipper List, Store Locations, Team management
+- Dimension sources: Store Locations, Team management
 - Fact Tables: FactOnlineSales and FactStoreSales
 
 * Top selling books and authors

@@ -53,4 +53,4 @@
 * Trim Prod Num
 * Rename Prod Num to Product ID
 * Rename Sale Amount to Sales Amount
-* Rename Transaction Date to Sales Date
+* Rename Transaction Date to Date

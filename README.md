@@ -37,3 +37,7 @@ excluding textbooks)
  - 10-minute video recording to demonstrate your project and results, with a link to the recording in your Capstone_3 README file 
  - 5-minute in-class presentation to share your report and key insights 
  - Final report must be published online to the class workspace in Power BI service 
+
+ ## Video Walkthrough
+
+ https://yearuptemp-my.sharepoint.com/:v:/g/personal/cugur_my_yearupunited_org/IQAgtIGd80RESq052Q-UeD5wAQMIgHwwX47jGjIDshFU6To?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iy335m

@@ -37,7 +37,7 @@ excluding textbooks)
 - Measure: Sales amount
 - Analyze by: State
 - Target Dimension: DimGeography
-- Dimension sources: Store Locations, Team management
+- Dimension sources: Store Locations, Team management, Online Sales
 - Fact Tables: FactOnlineSales and FactStoreSales
 
 * Top selling books and authors
